@@ -1,2 +1,2 @@
 # InClassEcon441B
-Homework for Machine Learning Lab
+Homework for Machine Learning main session and lab
